@@ -4,7 +4,7 @@ using namespace std;
 
 class Graph
 {
-	int V; // No. of vertices
+	int V; 
 
 	
 	vector<list<int>> adj;
